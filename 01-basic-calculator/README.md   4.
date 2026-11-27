@@ -1,0 +1,17 @@
+# Basic Calculator
+
+My first C programming project.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Division by zero check
+
+## Concepts Used
+- Variables
+- scanf() and printf()
+- switch-case
+- if-else
+- Arithmetic operators
